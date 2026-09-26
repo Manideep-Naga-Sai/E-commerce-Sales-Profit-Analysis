@@ -1,0 +1,5 @@
+WINDOWS: Double-click run_project.bat
+
+MAC/LINUX: Run ./run_project.sh
+
+The script handles the environment, dependencies, sample data, and dashboard startup automatically.
